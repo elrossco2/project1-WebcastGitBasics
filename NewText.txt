@@ -1,0 +1,4 @@
+Ok this opened from typing at the command line:
+
+notepad NewText 
+
